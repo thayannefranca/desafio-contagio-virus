@@ -1,4 +1,4 @@
 # desafio-ds-neoway
 
 ## instalação
-* pyvis
+* networkx
